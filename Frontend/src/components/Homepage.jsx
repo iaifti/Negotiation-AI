@@ -23,7 +23,7 @@ const Homepage = () => {
             </span>
             <TbGavel />
           </div>
-          <div className="bg-blue-100/55 w-7/8 md:w-7/8 rounded-3xl mx-auto py-2.5">
+          <div className="bg-blue-100/55 w-6/8 md:w-7/8 rounded-3xl mx-auto py-2.5">
             <input
               type="text"
               placeholder="I want to raise my pay ..."

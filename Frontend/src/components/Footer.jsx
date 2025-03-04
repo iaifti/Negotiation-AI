@@ -5,7 +5,7 @@ import { GrInstagram } from "react-icons/gr";
 
 const Footer = () => {
   return (
-    <div className="bg-Text text-white flex flex-row items-end justify-around p-2">
+    <div className="bg-Text text-white flex flex-row items-end justify-around p-8">
       <span>Negotiation AI</span>
       <div className="flex flex-row items-baseline gap-0.5">
         <BsFillBarChartFill className="text-Secondary text-lg pt-1" />
