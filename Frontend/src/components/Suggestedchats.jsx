@@ -59,7 +59,7 @@ const Suggestedchats = () => {
       <div
         className={`fixed ${
           isOpen
-            ? "top-20 left-2 bg-Secondary translate-x-0"
+            ? "top-20 left-2 bg-Primary translate-x-0"
             : "top-20 left-0 md:ml-5 lg:ml-10 bg-Primary/30 -translate-x-full"
         } min-h-full w-64 transition-transform duration-500 ease-in-out p-5 md:translate-x-0 md:relative md:w-72 lg:rounded-2xl rounded-2xl shadow-lg`}
       >
