@@ -42,7 +42,13 @@ const Usersettings = () => {
               </button>
             </div>
             <div className="flex justify-center pb-14">
-              <button className="text-Accent text-xl">Delete Account</button>
+              <button
+                className="text-Accent text-xl transition-all duration-200  
+                    focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-1 
+                    rounded-xl"
+              >
+                Delete Account
+              </button>
             </div>
           </div>
 
