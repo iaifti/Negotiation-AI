@@ -2,7 +2,7 @@ import { MdOutlineAdd } from "react-icons/md";
 
 const Navbar = () => {
   return (
-    <div className=" text-black p-4 w-full h-20 flex justify-between items-center font-Roboto">
+    <div className="bg-BG text-black p-4 w-full h-20 flex justify-between items-center font-Roboto overflow-hidden">
       {/* left section of the navbar */}
       <div className="flex justify-between items-center ">
         <div className="bg-Accent w-12 h-12 rounded-full mx-4"> </div>
